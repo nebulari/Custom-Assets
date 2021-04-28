@@ -65,6 +65,7 @@
 
 # idle-class
 "Gloomy Greaves of the Idling Gods" con=1000 agi=1000 dex=500 vampire=1 defense=1 poison=1
+"Graceful Pants" agi=800 hp=300
 
 # godly-class
 "The Biggest Fishnets You Ever Dun Seen" agi=1500 dex=7000 con=500 dance=1
