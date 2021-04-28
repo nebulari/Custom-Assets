@@ -50,6 +50,7 @@
 # idle-class
 "Glowing Gauntlets of the Idling Gods" str=1500 dex=1000 agi=1500 luk=200 glowing=1 defense=1
 "Glove of YEET" str=200 dex=3000 int=-10 agi=2000 luk=20 hp=-1000 xp=1 gold=-1
+"Graceful Gloves" agi=800 hp=300
 
 # godly-class
 "Infinitely Expanding Fractal Gloves" int=-1000 con=1000 str=3000 dex=3000
