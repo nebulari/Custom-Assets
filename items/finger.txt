@@ -70,6 +70,7 @@
 # goatly-class
 "Shut-In's Loop" str=-3000 con=-500 dex=-1000 agi=-2000 int=25025 luk=10000 xp=-30 mpregen=100 poison=2 dance=-1
 "Condom That You Put On Your Finger But It Wasn't That Funny" str=2000 dex=8500 int=-100 con=7500 agi=9500 luk=500 gold=30
+"Lucky Man's Finger" str=-3000 int=-3000 agi=-3000 xp=3000 gold=3000
 
 # omega-class
 "Hydromancer's Lost Ring" con=20000 int=7500 luk=3000 mp=25000 mpregen=2500 prone=3 cReqSmall_Diamond=1 cReqOld_Ring=1
