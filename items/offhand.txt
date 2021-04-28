@@ -101,6 +101,7 @@
 "1337 Login" str=1337 dex=1337 int=1337 con=1337 agi=1337 luk=1337 hp=1337
 "Bobby's table" int=32768 
 "The Hand of Your Beloved Of Which You Swore Never To Let Go" str=500 dex=10800 int=9400 con=2400 agi=7603 hp=34000
+"Kolodion's Prism" int=8000 luk=1600 xp=1000
 
 # omega-class
 "Fate's Kris" str=3000 con=3000 dex=3000 agi=3000 int=3000 luk=15000 xp=300 crit=100 glowing=20 cReqPretty_Cool_Looking_Dagger=1 cReqTwisted_Appendage=1 aReqTempterOfFate=1 sReqBossKills*Fate-Twisted_Lake_Monstrosity=5
