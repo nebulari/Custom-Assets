@@ -389,6 +389,7 @@
 "Serena Williams’ Drone Smashing Tennis Racquet" str=20000 dex=5000 int=1000 con=1000 agi=10000
 "Callandor" str=10000 dex=2458 int=-735 con=1500 agi=-200 luk=4792 hp=-800 gold=36
 "Serverkiller" str=8493 dex=9346 int=6593 con=759 agi=7493 luk=8408 hp=-18999 xp=28 gold=39
+"Edge of Evisceration" str=37000 dex=14000 int=-16000 con=14000 agi=14000 luk=-36000 hp=24000 xp=14000 gold=3000
 
 # custom
 "Pan Galactic Gargle Blaster" int=500 agi=500
