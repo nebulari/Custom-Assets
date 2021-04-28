@@ -371,6 +371,7 @@
 "Augbaal Staff of PAIN" str=1000 dex=250 xp=20
 "Rodeo Clown's Lasso" dex=250 con=1000 agi=250 luk=2750
 "white wonders pail" str=255 dex=255 int=255 con=255 agi=255 luk=255 xp=25
+"Oblivion Scythe" str=3700 dex=2200 int=-4000 con=1100 agi=1100 luk=1100 hp=-1100 xp=70 gold=30
 
 # celestial something or another
 "Celestial Cutlass" str=1000 dex=1000 con=1000 agi=1000 int=1000 luk=1000 glowing=1 offense=1 power=1 silver=1
